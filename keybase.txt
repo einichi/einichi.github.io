@@ -1,0 +1,57 @@
+einichi
+==================================================================
+https://keybase.io/einichi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ricky.burg.in
+  * I am einichi (https://keybase.io/einichi) on keybase.
+  * I have a public key ASCQze08h-GeTG20PL41yDU0l8cO-6FHfFPHhtERp3TLMgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012012a3fabe1fd60f390f79243aa3e279ce572a2904f02252eb3d1cf9ff96d970120a",
+      "host": "keybase.io",
+      "kid": "012090cded3c87e19e4c6db43cbe35c8353497c70efba1477c53c786d111a774cb320a",
+      "uid": "9cab9f9a3c1430c2ea024ffcc5515619",
+      "username": "einichi"
+    },
+    "merkle_root": {
+      "ctime": 1583918706,
+      "hash": "1f2c49f0b295ebefa23564542d3903eda8bd9f5cb69425f067e36974e45b5ef72ca8d61bb6480f6149b22d67a6efa3746569291ec304c34bdb57556f760d1c18",
+      "hash_meta": "b08bb0e97100282dde4ee6e88966e2c47a65169c31f66826eb6d51fd13639408",
+      "seqno": 15276392
+    },
+    "service": {
+      "entropy": "HIXh1fX6e6Zo0vNsMkbx1JF/",
+      "hostname": "ricky.burg.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1583918714,
+  "expire_in": 504576000,
+  "prev": "111db56229280157abfdade7c1ba64bf0481db24664ff87adf9372bbd8e6606c",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkM3tPIfhnkxttDy+Ncg1NJfHDvuhR3xTx4bREad0yzIKp3BheWxvYWTESpcCEcQgER21YikoAVer/a3nwbpkvwSB2yRmT/h635Nyu9jmYGzEIJVQBvOmWHgRjo2syLoecXR/LaDUQ6vnrAke7QrIA0gPAgHCo3NpZ8RAKNBmS+uxLDB2fiZlhmM1xXps7CPnPL8QL1Qe6SfUn8orR2sO4+78B7/Uu2sgzHGeef1u6mwgyA9amdeAwPAdCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHPGgpE9GMY/msbKP1PkndzbwEWtalTRlj7dg7DwfHD0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/einichi
+
+==================================================================
